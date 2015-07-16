@@ -5,7 +5,8 @@ title: Codecraft.es
 description: > # this means to ignore newlines until "baseurl:" Programar es una actividad tremendamente entretenida que ayuda, entre otras cosas, a mejorar tu capacidad para resolver problemas, pensar de manera analítica, aplicar un poco de lógica en la resolución de tus tareas y entender como funcionan los dispositivos y aplicaciones que nos rodean.
 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "www.codecraft.es" #important: start with /
+baseurl: ""
+url: www.codecraft.es
 
 # Build settings
 markdown: kramdown
