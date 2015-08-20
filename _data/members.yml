@@ -1,10 +1,12 @@
-# Members information. Shown on About page.
 - name: Johan S. Cortes Montenegro
-  position: Facilitador
   text: "Soy un desarrollador que disfruta día a día de su profesión, aprendiendo de los demas y compartiendo mi conocimiento."
-  img: johan.jpg
-  social:
-  - title: envelope #use for email address
-    url: mailto:johanscm50@gmail.com
-  - title: twitter
-    url: http://twitter.com/hinigul
+  img: johan_3.jpg
+  mail: mailto:johanscm50@gmail.com
+  twitter: hinigul
+
+- name: José Évora Gómez
+  position: Facilitador
+  text: "Informático multi-tarea: ingeniero del software e investigador"
+  img: jose_evora.png
+  mail: mailto:joseevora87@gmail.com
+  twitter: j_evora

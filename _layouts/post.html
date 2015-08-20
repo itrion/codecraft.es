@@ -1,7 +1,24 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="es">
+{% include head.html %}
+<body>
+	
+	{% include header.html %}
 
-{% include wrap.html %}
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+				<p><img class="img-responsive" src="{{ "/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
+				<a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
+				<p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
 
-{% include post.html %}
+				{{ content }}
+
+				<div class="spacing"></div>
+			</div>
+		</div>
+	</div>
+
+	{% include footer.html %}
+</body>
+</html>
