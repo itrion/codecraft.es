@@ -6,6 +6,7 @@ tags: agile craftsmanship minecraft scriptcraft
 author: hinigul
 img: 2015-08-20-img.jpg
 thumb: 2015-08-20-thumb.jpg
+comments: true
 ---
 
 Es la mejor manera que se me ha ocurrido de empezar mi primer blog post. Algunos de los que están leyendo ahora mismo ya se imaginaran el porque y quizá la mayoría no, pero de cualquier forma aquí empieza una nueva aventura:
