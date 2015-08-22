@@ -3,7 +3,7 @@ layout: post
 title: Bienvenidos a codecraft
 categories: codecraft
 tags: agile craftsmanship minecraft scriptcraft
-author: hinigul
+author: Johan S. cortes
 img: 2015-08-20-img.jpg
 thumb: 2015-08-20-thumb.jpg
 comments: true
