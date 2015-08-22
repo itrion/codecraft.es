@@ -6,19 +6,17 @@
 	{% include header.html %}
 	{% include analytics.html %}
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-8">
-				<p><img class="img-responsive" src="{{ "/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
-				<a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
-				<p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
+		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
+			<p><img class="img-responsive" src="{{ "/img/blog/" | prepend: site.baseurl }}{{ page.img }}"></p>
+			<a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
+			<p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
 
-				{{ content }}
+			{{ content }}
 
-				<div class="spacing"></div>
-			</div>
+			<div class="spacing"></div>
+			{% include disqus.html %}
 		</div>
 	</div>
-	{% include disqus.html %}
 	{% include footer.html %}
 </body>
 </html>
