@@ -1,26 +1,8 @@
 ---
-layout: default
+layout: contact
 title: Contacto
 permalink: /contacto/
 ---
 
-<div class="container">
-	{% for member in site.data.members %}
-	<div class="col-xs-12 col-sm-6">
-		<ul class="list-unstyled">
-			<li class="text-center">
-				<a href="#" class="thumbnail">
-					<img src="/img/members/{{ member.img }}"></a>
-				</a>
-				<h4>{{ member.name }}</h4>
-				<h5>
-					<a href="https://www.twitter.com/{{ member.twitter }}">
-						@{{ member.twitter }}
-					</a>
-				</h5>
-
-			</li>
-		</ul>	
-	</div>
-	{% endfor %}
-</div>
+{% include members.html %}
+{% include contact_form.html %}

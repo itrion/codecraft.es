@@ -1,0 +1,20 @@
+<h1>Equipo</h1>
+<div class="container">
+	{% for member in site.data.members %}
+	<div class="container col-xs-12 col-sm-6">
+		<div class="col-sm-4">
+			<img class="img-circle" style="width: 100px;" src="/img/members/{{ member.img }}">
+		</div>
+		<div class="col-sm-8">
+			<h4>{{ member.name }}</h4>
+			<small>{{ member.text }}</small>
+			<p>
+				<a href="https://www.twitter.com/{{ member.twitter }}">
+					<i style="margin-right:5px;" class="fa fa-twitter"></i>
+					@{{ member.twitter }}
+				</a>
+			</p>
+		</div>
+	</div>
+	{% endfor %}
+</div>
