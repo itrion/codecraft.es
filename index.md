@@ -2,13 +2,13 @@
 layout: default
 title: Inicio
 ---
-
 <div class="jumbotron">
-	<div class="container">
-		<h1>Codecraft</h1>
-		<p>El arte de aprender a programar</p>
-	</div>
+    <div class="container">
+        <h1>Codecraft</h1>
+        <p>El arte de aprender a programar</p>
+    </div>
 </div>
+
 
 Programar es una actividad tremendamente entretenida que ayuda, entre otras cosas, a mejorar tu capacidad para resolver problemas, pensar de manera analítica, aplicar un poco de lógica en la resolución de tus tareas y entender como funcionan los dispositivos y aplicaciones que nos rodean.
 
