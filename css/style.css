@@ -1,3 +1,11 @@
+.register-button{
+  margin: 30px;
+}
+
+.features{
+  margin-top: 40px;
+}
+
 .contact{
   margin-top: 30px;
 }
@@ -9,6 +17,8 @@
 .navbar-form input, .form-inline input {
   width:auto;
 }
+
+
 
 body {
   padding-top:100px;
