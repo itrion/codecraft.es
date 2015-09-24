@@ -1,5 +1,5 @@
 .register-button{
-  margin: 30px;
+  margin: 20px;
 }
 
 .features{
@@ -14,15 +14,9 @@
   margin-top: 30px;
 }
 
-.navbar-form input, .form-inline input {
-  width:auto;
-}
-
-
-
 body {
-  padding-top:100px;
-  margin-bottom: 60px;
+  padding-top:60px;
+  padding-bottom: 60px;
 }
 
 footer {
