@@ -16,7 +16,7 @@ title: Inicio
         <p class="lead head-line">
             Codecraft es un proyecto para enseñar a programar a niños de entre 7 y 16 años de edad. Consta de 3 sesiones de 3 horas cada una en donde de manera iterativa e incremental, vamos abordando conceptos relacionados con la programación, la instalación de servidores y los lenguajes de programación.
         </p>
-        <div class="register-button text-center"><a class="btn btn-primary btn-lg" href="#" role="button">Apuntarse</a>
+        <div class="register-button text-center"><a class="btn btn-primary btn-lg" href="//j.mp/1RdjFWG" role="button">Apuntarse</a>
         </div>
     </div>
 </div>
@@ -42,11 +42,16 @@ title: Inicio
             Aprender jugando es una de las técnicas más efectivas que hay para interiorizar los conceptos. En Codecraft el principal objetivo es pasárselo bien, por eso hemos escogido Minecraft como plataforma de soporte, sabemos que a todos los niños les gusta.
         </p>
     </div>
-    <!-- TODO: Participativo -->
-    <!-- TODO: Ágil -->
 </div>
-<div class="row partners">
-    <div class="col-sm-12 col-md-4 text-center">
-        
+<div class="row partners">    
+    <h1 class="text-center">Organizan</h1>
+    <div class="col-sm-12 col-md-4 partner">
+        <img src="img/partners/cabildo_spegc_incube.png" class="img-responsive"></a>
+    </div>
+    <div class="col-sm-12 col-md-4 partner">
+        <img src="img/partners/eiin.png" class="img-responsive"></a>
+    </div>
+    <div class="col-sm-12 col-md-4 partner">
+        <img src="img/partners/gdg_gran_canaria.png" class="img-responsive"></a>
     </div>
 </div>
