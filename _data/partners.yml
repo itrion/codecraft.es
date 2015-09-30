@@ -1,0 +1,8 @@
+- name: SPEGC
+  image: cabildo_spegc_incube.png
+
+- name: EIIN
+  image: eiin.png
+
+- name: gdg_gran_canaria
+  image: gdg_gran_canaria.png

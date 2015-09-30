@@ -1,0 +1,9 @@
+<div class="row partners">    
+    <h1 class="text-center">Organizan</h1>
+
+    {% for partner in site.data.partners %}
+        <div class="col-sm-12 col-md-4 partner">
+            <img src="img/partners/{{ partner.image }}" class="img-responsive"></a>
+        </div>
+    {% endfor %}
+</div>
