@@ -1,5 +1,11 @@
 - name: Johan S. Cortes Montenegro
   text: "Soy un desarrollador que disfruta día a día de su profesión, aprendiendo de los demas y compartiendo mi conocimiento."
-  img: johan_3.jpg
+  img: johan.jpg
   mail: mailto:johanscm50@gmail.com
   twitter: hinigul
+
+- name: David González 
+  text: "Estudiante Ingeniería Informática"
+  img: david.png
+  mail: mailto:davidglezramos@gmail.com
+  twitter: lionicex
