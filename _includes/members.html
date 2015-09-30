@@ -1,11 +1,11 @@
 <h1>Equipo</h1>
-<div class="container">
+<div class="row">
 	{% for member in site.data.members %}
-	<div class="container col-xs-12 col-sm-6">
-		<div class="col-sm-4">
+	<div class="container col-sm-12 member">
+		<div class="col-sm-2">
 			<img class="img-circle" style="width: 100px;" src="/img/members/{{ member.img }}">
 		</div>
-		<div class="col-sm-8">
+		<div class="col-sm-4">
 			<h4>{{ member.name }}</h4>
 			<small>{{ member.text }}</small>
 			<p>
