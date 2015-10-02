@@ -1,17 +1,17 @@
 - name: Johan S. Cortes Montenegro
-  text: "Soy un desarrollador que disfruta día a día de su profesión, aprendiendo de los demas y compartiendo mi conocimiento."
+  text: "Soy un desarrollador que disfruta día a día de su profesión, aprendiendo de los demás y compartiendo mi conocimiento."
   img: johan.jpg
   mail: mailto:johanscm50@gmail.com
   twitter: hinigul
 
 - name: David González Ramos
-  text: "Estudiante Ingeniería Informática"
+  text: "Soy amante de la Informática, aficionado a la fotografía y emprendedor. Gracias a Codecraft me he dado cuenta que me encanta la docencia."
   img: david.png
   mail: mailto:davidglezramos@gmail.com
   instagram: lionicex
 
 - name: Javier Santana Godoy
-  text: "Estudiante Ingeniería Informática"
+  text: "Desarrollador en fase beta. Cuando no tengo un proyecto en mente es porque estoy durmiendo."
   img: javi.jpg
   mail: mailto:javiersantanagodoy@gmail.com
   instagram: mrivaj
