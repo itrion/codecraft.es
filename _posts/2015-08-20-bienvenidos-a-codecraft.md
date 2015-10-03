@@ -9,7 +9,7 @@ thumb: 2015-08-20-thumb.jpg
 comments: true
 ---
 
-Es la mejor manera que se me ha ocurrido de empezar mi primer blog post. Algunos de los que están leyendo ahora mismo ya se imaginarán el porque y quizá la mayoría no, pero de cualquier forma aquí empieza una nueva aventura:
+Es la mejor manera que se me ha ocurrido de empezar mi primer blog post. Algunos de los que están leyendo ahora mismo ya se imaginarán el por qué y quizá la mayoría no, pero de cualquier forma aquí empieza una nueva aventura:
 
 Desde siempre me ha gustado compartir lo que sé y rodearme de personas que hagan lo mismo. He sentido desde muy pequeño gusto por aprender y siempre he creído que la mejor forma de hacerlo es enseñando. Esa es la principal razón que me ha impulsado a empezar este blog.
 
