@@ -4,8 +4,10 @@ title: Inicio
 ---
 
 <div class="page-header">
-    <h1>Codecraft</h1>
-    <p>El arte de aprender a programar</p>
+    <img src="/img/banner.png" class="img-responsive">
+    <div class="header-text">
+        El arte de aprender a programar
+    </div>
 </div>
 
 <div class="row headline">
