@@ -1,3 +1,19 @@
+.header-text {
+  font-family:arial;
+  font-size:30px;
+  font-weight:bold;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1.7px;
+  text-shadow: 1px 1px 1px #aaa;
+}
+
+.img-responsive {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 .register-button{
   margin: 20px;
 }
@@ -24,6 +40,9 @@
 
 .page-header{
   font-family: "Roboto";
+  margin:0px auto;
+  text-align:center;
+  margin-bottom: 30px;
 }
 
 .member{
