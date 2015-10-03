@@ -1,5 +1,9 @@
+.blog{
+  margin-top: 30px;
+}
+
 .calendar-frame{
-  display: flex; 
+  display: flex;
   margin-top: 30px;
 }
 
