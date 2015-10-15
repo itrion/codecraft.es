@@ -6,3 +6,6 @@
 
 - name: gdg_gran_canaria
   image: gdg_gran_canaria.png
+
+- name: Tirma
+  image: tirma.jpeg

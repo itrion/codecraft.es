@@ -1,9 +1,21 @@
 <div class="row partners">    
     <h1 class="text-center">Organizan</h1>
 
-    {% for partner in site.data.partners %}
+	{% assign columns = 3 %}
+    
+    <div class="row">
+    {% for partner in site.data.partners limit:columns offset:0 %}
+   	    <div class="col-sm-12 col-md-4 partner">
+            <img src="img/partners/{{ partner.image }}" class="img-responsive"></a>
+        </div>
+    {% endfor %}
+    </div>
+
+	<div class="row">
+    {% for partner in site.data.partners limit:columns offset:3 %}
         <div class="col-sm-12 col-md-4 partner">
             <img src="img/partners/{{ partner.image }}" class="img-responsive"></a>
         </div>
     {% endfor %}
+    <div>
 </div>
