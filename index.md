@@ -25,4 +25,3 @@ title: Inicio
 
 {% include features.html %}
 {% include partners.html %}
-
