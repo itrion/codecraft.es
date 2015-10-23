@@ -1,6 +1,7 @@
 ---
-layoyt: default
+layout: default
 title: Preguntas frecuentes
 permalink: /faq/
 ---
-this is the faq
+
+{% include faq.md %}
