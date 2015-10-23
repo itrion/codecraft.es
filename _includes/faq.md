@@ -1,4 +1,4 @@
-# FAQ
+# Preguntas frecuentes
 
 ### ¿Hay que llevar la entrada impresa?
     No hay que llevar la entrada. Tenemos una lista detallada con los
