@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 title: Inicio
 ---
 
@@ -22,3 +22,7 @@ title: Inicio
         </div>
     </div>
 </div>
+
+{% include features.html %}
+{% include partners.html %}
+
