@@ -1,0 +1,89 @@
+- name: Peluche Araña
+  category: Minecraft
+  img: peluchearaña.jpg
+  price: 3,25€
+  pvp:
+
+- name: Lote de 10 figuras llaveros
+  category: Minecraft
+  img: llaveros10.jpg
+  price: 6.35€
+  pvp:
+
+- name: Peluche Enderman
+  category: Minecraft
+  img: pelucheenderman.jpg
+  price: 3€
+  pvp:
+
+- name: Peluche Lobo
+  category: Minecraft
+  img: peluchelobo.jpg
+  price: 3,55€
+  pvp:
+
+- name: Peluche Oveja
+  category: Minecraft
+  img: pelucheoveja.jpg
+  price: 2,70€
+  pvp:
+
+- name: Colgante Creeper
+  category: Minecraft
+  img: colgantecreeper.jpg
+  price: 0,81€
+  pvp:
+
+- name: Lote de 6 figuras llavero
+  category: Minecraft
+  img: llaveros6.jpg
+  price: 5,10€
+  pvp:
+
+- name: Vinilos de pared
+  category: Minecraft
+  img: vinilos.jpg
+  price: 4,30€
+  pvp:
+
+- name: Peluche Zombi
+  category: Minecraft
+  img: peluchezombi.jpg
+  price: 2.65€
+  pvp:
+
+- name: Peluche Cerdito
+  category: Minecraft
+  img: peluchecerdito.jpg
+  price: 2,55€
+  pvp:
+
+- name: Peluche Dragón Ender (60cm)
+  category: Minecraft
+  img: peluchedragon.jpg
+  price: 12,51€
+  pvp:
+
+- name: Hacha Diamante
+  category: Minecraft
+  img: hachadiamante.jpg
+  price: 5,42€
+  pvp:
+
+- name: Pala Diamante
+  category: Minecraft
+  img: paladiamante.jpg
+  price: 5,42€
+  pvp:
+
+- name: Peluches de animales zombis
+  category: Minecraft
+  img: pelucheanimaleszombis.jpg
+  price: 2,90€ c/u
+  pvp:
+
+- name: Peluche TNT
+  category: Minecraft
+  img: peluchetnt.jpg
+  price: 2,05€
+  pvp:
