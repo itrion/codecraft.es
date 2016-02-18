@@ -30,4 +30,4 @@ Ya para terminar, diré que aprovecharé este blog principalmente para dos cosas
 Muchas de las cosas que escriba aquí no estarán orientadas al proyecto Codecraft y podrán requerir de cierta experiencia o conocimiento en programación. Intentaré definir un modelo de categorías y etiquetas que facilite la identificación de este tipo de contenido.
 **Bienvenidos a Codecraft!**
 
-    alt + f3
+    alt + f4
